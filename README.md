@@ -16,3 +16,9 @@ Script para criar um anúncio no Mercado Livre
 5) Rode ``php app.php`` para criar um anúncio
 
 obs: Dados do anúncio para alterar estão no arquivo 'app.php'
+
+## To-do list
+
+[x] Publicar anúncio
+[] Consultar uma categoria e descobrir quais são os campos obrigatórios e incluir no payload de publição de anúncios
+[] Usar AI para gerar informação valida para preencher os campos obrigatórios
